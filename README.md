@@ -4,7 +4,7 @@ _I have the very basic of HTML and CSS with Bootstrap styling all links are upda
 
 > Git clone //To clone the repo
 
-or **Make a quick visit
+or **Make a quick visit**
 
 _What actually led me to upload this Landing page is I used mailing services Like [Mailchimp](https://mailchimp.com/)_
 Although it might be slightly vague on how to use these services and connect them to 
